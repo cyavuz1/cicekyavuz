@@ -35,3 +35,5 @@
          - Highlight.js
      - build.js
      - dev.js
+
+theme: jekyll-theme-tactile
