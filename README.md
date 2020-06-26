@@ -1,7 +1,7 @@
 # cicekyavuz
-jfhkdjhkdjhg
-1.
-2.
+### Steps
+1.jfdk
+2.dfjhk
 3.
 4.
 5.
