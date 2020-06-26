@@ -36,4 +36,4 @@
      - build.js
      - dev.js
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
