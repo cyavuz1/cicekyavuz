@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 # cicekyavuz
 ### Steps
 1.jfdk
