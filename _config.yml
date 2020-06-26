@@ -36,4 +36,4 @@
      - build.js
      - dev.js
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
